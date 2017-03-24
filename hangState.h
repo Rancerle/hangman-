@@ -1,0 +1,5 @@
+#pragma once
+enum hangState
+{
+	PLATFORM, BODY, LEFTLEG, RIGHTLEG, RIGHTARM, LEFTARM, HEAD, HUNG
+};
